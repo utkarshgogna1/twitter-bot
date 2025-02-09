@@ -1,6 +1,6 @@
 ## Twitter Favorite Bot
 
-Read all about this project and follow the tutorial on Medium: [Build a simple Twitter Bot with Node.js in just 38 lines of code][((https://medium.com/@gognautkarsh/effortless-twitter-automation-build-your-node-js-bot-cebe3223973a))]
+Read all about this project and follow the tutorial on Medium: [Build a simple Twitter Bot with Node.js in just 38 lines of code][https://medium.com/@gognautkarsh/effortless-twitter-automation-build-your-node-js-bot-cebe3223973a]
 
 This bot returns 10 tweets for a specified search query then favorites each of the returned tweets.
 
